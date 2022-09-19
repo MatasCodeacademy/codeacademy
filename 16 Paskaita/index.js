@@ -50,6 +50,7 @@ function Person(vardasParam, pavardeParam, amziusParam) {
 				this.amzius +
 				" years old"
 		);
+		console.log();
 	};
 
 	// function calculateDifference() {
